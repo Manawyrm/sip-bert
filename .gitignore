@@ -1,0 +1,6 @@
+# Build artifacts
+*.o
+
+# Binaries
+/sip-bert
+/prbs_test
