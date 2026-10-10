@@ -1,7 +1,7 @@
 # sip-bert
 
 > [!CAUTION]
-> 🤖☢️ Vibecoded software!
+> 🤖☢️ Vibe-coded software!
 > This entire repo was written by Claude Code and it does not meet my
 > usual quality & care standards. It was not well tested, probably has
 > bugs and I take no responsibility if it behaves badly or even hurts
@@ -9,6 +9,13 @@
 > 
 > I have tested it myself and it does work, the results seem to be correct at
 > least for my test usecase.
+
+> [!WARNING]
+> Licensing on vibe-coded software is a bit of an unclear topic right now.
+> I'm not willing to add a LICENSE file to this repository because I cannot
+> guarantee/prove the source of any parts that might've made their way into the code.
+>
+> This software should be free software under GPLv3, if possible.
 
 A PRBS-11 **bit-error-rate tester** for SIP / G.711a calls — the classic
 64 kbit/s ISDN B-channel BERT, reincarnated on VoIP.
